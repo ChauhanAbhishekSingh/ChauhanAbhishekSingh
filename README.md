@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Learning new programming languages and cahtting about music.
+- 🤔 &nbsp; Learning about new technologies and projects .
 - 🎓 &nbsp; Studying Electrical Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur.
 <!-- - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited. -->
 
